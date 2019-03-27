@@ -38,7 +38,7 @@ end
 # Define your play method below
 def play(board)
   loop_count = 0
-  until loop_count = 9
+  until loop_count = 8
   
   
   loop_count += 1
