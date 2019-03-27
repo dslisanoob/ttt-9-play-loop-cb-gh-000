@@ -40,7 +40,7 @@ def play(board)
   loop_count = 0
   until loop_count == 9
   puts "Please enter 1-9:"
-  turn(user_input)
+  turn(board)
   loop_count += 1
   end    
 end
